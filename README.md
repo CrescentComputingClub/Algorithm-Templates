@@ -1,1 +1,1 @@
-# Solutions
+# Algorithm Templates
